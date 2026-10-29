@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="src/BingoCipher0.Core/BingoCipher0.Core.csproj" />
+  <Project Path="src/BingoCipher0.Sim/BingoCipher0.Sim.csproj" />
+  <Project Path="src/BingoCipher0.Challenges/BingoCipher0.Challenges.csproj" />
+  <Project Path="src/UKBingoSim/UKBingoSim.csproj" />
+  <Project Path="src/UKBingoCipherChallenge/UKBingoCipherChallenge.csproj" />
+  <Project Path="src/USBingoSim/USBingoSim.csproj" />
+  <Project Path="src/USBingoCipherChallenge/USBingoCipherChallenge.csproj" />
+  <Project Path="tests/BingoCipher0.Core.Tests/BingoCipher0.Core.Tests.csproj" />
+  <Project Path="tests/BingoCipher0.Sim.Tests/BingoCipher0.Sim.Tests.csproj" />
+  <Project Path="tests/BingoCipher0.Challenges.Tests/BingoCipher0.Challenges.Tests.csproj" />
+</Solution>

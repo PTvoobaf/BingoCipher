@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\*.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BingoCipher0.Core\BingoCipher0.Core.csproj" />
+    <ProjectReference Include="..\BingoCipher0.Sim\BingoCipher0.Sim.csproj" />
+  </ItemGroup>
+</Project>

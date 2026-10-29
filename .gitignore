@@ -1,0 +1,24 @@
+## .NET build output
+**/bin/
+**/obj/
+
+## Visual Studio and Rider user files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Test results and coverage
+TestResults/
+coverage/
+*.trx
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## Local tooling and secrets
+.env
+*.local.json
+
