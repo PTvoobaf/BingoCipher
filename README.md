@@ -122,5 +122,7 @@ Here's the text of the second SAINTCON26 Bingo Cipher challenge:
 > 68,61,83,85,58,79,76,41,4,51,47,12,88,54,57,13,2,19,32,81,31,18,11,21,22
 > 
 > Winning Bingo ticket:
+>
+> ![UK Winning Ticket](Bingo-ticket.png)
 
 At SAINTCON26 Hackers Challenge, 42 competitors submitted a correct flag.
