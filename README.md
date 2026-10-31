@@ -82,6 +82,7 @@ Here's the text of the first SAINTCON26 Bingo Cipher challenge:
 > 
 > Winning Bingo card:
 >
+> ![US Winning Card](bingo-card.svg)
 
 At SAINTCON26 Hackers Challenge, 45 competitors submitted a correct flag.
 
